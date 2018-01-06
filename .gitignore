@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+directorio.md
 
 # general
 .DS_Store
